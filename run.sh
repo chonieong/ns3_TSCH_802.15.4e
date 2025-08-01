@@ -1,0 +1,19 @@
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=3" > ./logs/logs1003.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=4" > ./logs/logs1004.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=5" > ./logs/logs1005.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=6" > ./logs/logs1006.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=7" > ./logs/logs1007.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=8" > ./logs/logs1008.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=9" > ./logs/logs1009.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=10" > ./logs/logs1010.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=11" > ./logs/logs1011.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=12" > ./logs/logs1012.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=13" > ./logs/logs1013.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=14" > ./logs/logs1014.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=15" > ./logs/logs1015.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=16" > ./logs/logs1016.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=17" > ./logs/logs1017.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=18" > ./logs/logs1018.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=19" > ./logs/logs1019.txt 2>&1
+sudo ./waf --run "scratch/lr-wpan-tsch-test-ieong --nrnodes=20" > ./logs/logs1020.txt 2>&1
+wait
